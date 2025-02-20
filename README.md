@@ -11,7 +11,7 @@
 ```
 git clone https://github.com/0152neich/Medical-diagnosis.git
 ```
-- Bước 2: Tải file .csv tại , sau đó lưu vào folder data
+- Bước 2: Tải file .csv tại [data](https://drive.google.com/file/d/10Semr9jU95UZo1u3i6vfSoOxPXDAc-FX/view?usp=sharing), sau đó lưu vào folder data
 
 - Bước 3: Cài đặt dependencies
 ```
